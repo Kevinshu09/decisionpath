@@ -1,0 +1,3 @@
+interface:
+  display_name: "DecisionPath"
+  short_description: "Turn complex decisions into executable workflows"

@@ -1,0 +1,15 @@
+# Private decision sessions and local notes
+runs/
+private/
+
+# Local credentials and environment settings
+.env
+.env.*
+*.pem
+*.key
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
